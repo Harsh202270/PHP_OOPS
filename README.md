@@ -82,13 +82,6 @@ Each file is independent and can be executed separately.
 
 ---
 
-## 👨‍💻 Author
-
-**Harsh Vardhan**  
-PHP & Web Development Learner  
-
----
-
 ## ⭐ Note
 
 This repository is created for **educational purposes only**.  
